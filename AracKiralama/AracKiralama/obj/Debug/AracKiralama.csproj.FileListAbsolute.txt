@@ -1,0 +1,48 @@
+C:\Users\toroman\Desktop\C# ve SQL\AracKiralama\AracKiralama\bin\Debug\AracKiralama.exe.config
+C:\Users\toroman\Desktop\C# ve SQL\AracKiralama\AracKiralama\bin\Debug\AracKiralama.exe
+C:\Users\toroman\Desktop\C# ve SQL\AracKiralama\AracKiralama\bin\Debug\AracKiralama.pdb
+C:\Users\toroman\Desktop\C# ve SQL\AracKiralama\AracKiralama\obj\Debug\AracKiralama.csproj.AssemblyReference.cache
+C:\Users\toroman\Desktop\C# ve SQL\AracKiralama\AracKiralama\obj\Debug\AracKiralama.csproj.SuggestedBindingRedirects.cache
+C:\Users\toroman\Desktop\C# ve SQL\AracKiralama\AracKiralama\obj\Debug\AracKiralama.AracKayıt.resources
+C:\Users\toroman\Desktop\C# ve SQL\AracKiralama\AracKiralama\obj\Debug\AracKiralama.Form1.resources
+C:\Users\toroman\Desktop\C# ve SQL\AracKiralama\AracKiralama\obj\Debug\AracKiralama.MusteriEkleme.resources
+C:\Users\toroman\Desktop\C# ve SQL\AracKiralama\AracKiralama\obj\Debug\AracKiralama.MusteriListeleme.resources
+C:\Users\toroman\Desktop\C# ve SQL\AracKiralama\AracKiralama\obj\Debug\AracKiralama.Properties.Resources.resources
+C:\Users\toroman\Desktop\C# ve SQL\AracKiralama\AracKiralama\obj\Debug\AracKiralama.csproj.GenerateResource.cache
+C:\Users\toroman\Desktop\C# ve SQL\AracKiralama\AracKiralama\obj\Debug\AracKiralama.csproj.CoreCompileInputs.cache
+C:\Users\toroman\Desktop\C# ve SQL\AracKiralama\AracKiralama\obj\Debug\AracKiralama.exe
+C:\Users\toroman\Desktop\C# ve SQL\AracKiralama\AracKiralama\obj\Debug\AracKiralama.pdb
+C:\Users\berkcan.araz\Desktop\AracKiralama\AracKiralama\bin\Debug\AracKiralama.exe.config
+C:\Users\berkcan.araz\Desktop\AracKiralama\AracKiralama\bin\Debug\AracKiralama.exe
+C:\Users\berkcan.araz\Desktop\AracKiralama\AracKiralama\bin\Debug\AracKiralama.pdb
+C:\Users\berkcan.araz\Desktop\AracKiralama\AracKiralama\obj\Debug\AracKiralama.csproj.AssemblyReference.cache
+C:\Users\berkcan.araz\Desktop\AracKiralama\AracKiralama\obj\Debug\AracKiralama.csproj.SuggestedBindingRedirects.cache
+C:\Users\berkcan.araz\Desktop\AracKiralama\AracKiralama\obj\Debug\AracKiralama.AracKayıt.resources
+C:\Users\berkcan.araz\Desktop\AracKiralama\AracKiralama\obj\Debug\AracKiralama.Form1.resources
+C:\Users\berkcan.araz\Desktop\AracKiralama\AracKiralama\obj\Debug\AracKiralama.MusteriEkleme.resources
+C:\Users\berkcan.araz\Desktop\AracKiralama\AracKiralama\obj\Debug\AracKiralama.MusteriListeleme.resources
+C:\Users\berkcan.araz\Desktop\AracKiralama\AracKiralama\obj\Debug\AracKiralama.Properties.Resources.resources
+C:\Users\berkcan.araz\Desktop\AracKiralama\AracKiralama\obj\Debug\AracKiralama.csproj.GenerateResource.cache
+C:\Users\berkcan.araz\Desktop\AracKiralama\AracKiralama\obj\Debug\AracKiralama.csproj.CoreCompileInputs.cache
+C:\Users\berkcan.araz\Desktop\AracKiralama\AracKiralama\obj\Debug\AracKiralama.exe
+C:\Users\berkcan.araz\Desktop\AracKiralama\AracKiralama\obj\Debug\AracKiralama.pdb
+C:\Users\toroman\Desktop\C# ve SQL\AracKiralama\AracKiralama\obj\Debug\AracKiralama.Arac_Listeleme.resources
+C:\Users\berkcan.araz\Desktop\AracKiralama\AracKiralama\obj\Debug\AracKiralama.Arac_Listeleme.resources
+C:\Users\berkcan.araz\Desktop\AracKiralama\AracKiralama\obj\Debug\AracKiralama.Sozlesme.resources
+C:\Users\burak.karakucuk\Desktop\AracKiralama\AracKiralama\bin\Debug\AracKiralama.exe.config
+C:\Users\burak.karakucuk\Desktop\AracKiralama\AracKiralama\bin\Debug\AracKiralama.exe
+C:\Users\burak.karakucuk\Desktop\AracKiralama\AracKiralama\bin\Debug\AracKiralama.pdb
+C:\Users\burak.karakucuk\Desktop\AracKiralama\AracKiralama\obj\Debug\AracKiralama.csproj.AssemblyReference.cache
+C:\Users\burak.karakucuk\Desktop\AracKiralama\AracKiralama\obj\Debug\AracKiralama.csproj.SuggestedBindingRedirects.cache
+C:\Users\burak.karakucuk\Desktop\AracKiralama\AracKiralama\obj\Debug\AracKiralama.AracKayıt.resources
+C:\Users\burak.karakucuk\Desktop\AracKiralama\AracKiralama\obj\Debug\AracKiralama.Arac_Listeleme.resources
+C:\Users\burak.karakucuk\Desktop\AracKiralama\AracKiralama\obj\Debug\AracKiralama.Form1.resources
+C:\Users\burak.karakucuk\Desktop\AracKiralama\AracKiralama\obj\Debug\AracKiralama.MusteriEkleme.resources
+C:\Users\burak.karakucuk\Desktop\AracKiralama\AracKiralama\obj\Debug\AracKiralama.MusteriListeleme.resources
+C:\Users\burak.karakucuk\Desktop\AracKiralama\AracKiralama\obj\Debug\AracKiralama.Properties.Resources.resources
+C:\Users\burak.karakucuk\Desktop\AracKiralama\AracKiralama\obj\Debug\AracKiralama.Sozlesme.resources
+C:\Users\burak.karakucuk\Desktop\AracKiralama\AracKiralama\obj\Debug\AracKiralama.csproj.GenerateResource.cache
+C:\Users\burak.karakucuk\Desktop\AracKiralama\AracKiralama\obj\Debug\AracKiralama.csproj.CoreCompileInputs.cache
+C:\Users\burak.karakucuk\Desktop\AracKiralama\AracKiralama\obj\Debug\AracKiralama.exe
+C:\Users\burak.karakucuk\Desktop\AracKiralama\AracKiralama\obj\Debug\AracKiralama.pdb
+C:\Users\burak.karakucuk\Desktop\AracKiralama\AracKiralama\obj\Debug\AracKiralama.Kuallanici.resources
